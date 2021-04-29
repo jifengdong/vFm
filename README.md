@@ -165,10 +165,10 @@ pm2 start server.js
 ```
 #和尚大佬的库v4拉取方法
 ```
-OwnRepoUrl1="git@github.com:monk-coder/dust.git"
-OwnRepoUrl2="git@github.com:monk-coder/dust.git"
-OwnRepoUrl3="git@github.com:monk-coder/dust.git"
-OwnRepoUrl4="git@github.com:monk-coder/dust.git"
+OwnRepoUrl1="https://github.com/monk-coder/dust.git"
+OwnRepoUrl2="https://github.com/monk-coder/dust.git"
+OwnRepoUrl3="https://github.com/monk-coder/dust.git"
+OwnRepoUrl4="https://github.com/monk-coder/dust.git"
 
 OwnRepoBranch1="dust"
 OwnRepoBranch2="dust"
