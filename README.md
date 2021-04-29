@@ -163,3 +163,20 @@ cd panel
 npm i
 pm2 start server.js
 ```
+#和尚大佬的库v4拉取方法
+```
+OwnRepoUrl1="git@github.com:monk-coder/dust.git"
+OwnRepoUrl2="git@github.com:monk-coder/dust.git"
+OwnRepoUrl3="git@github.com:monk-coder/dust.git"
+OwnRepoUrl4="git@github.com:monk-coder/dust.git"
+
+OwnRepoBranch1="dust"
+OwnRepoBranch2="dust"
+OwnRepoBranch3="dust"
+OwnRepoBranch4="dust"
+
+OwnRepoPath1="i-chenzhe"
+OwnRepoPath2="car"
+OwnRepoPath3="member"
+OwnRepoPath4="normal"
+```
