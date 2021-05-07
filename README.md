@@ -143,6 +143,14 @@ docker exec -it qinglong bash git_pull
 ```
 docker exec -it jd bash jup
 ```
+#更新v4
+```
+docker run --rm \
+    -v /var/run/docker.sock:/var/run/docker.sock \
+    containrrr/watchtower -cR \
+    你容器名
+```
+
 ##安装v4面板
 
 #开启DIY每次重启会重启面板
